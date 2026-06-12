@@ -83,4 +83,4 @@ vim.api.nvim_create_autocmd("FileType", {
 })
 
 --主題顏色
-vim.cmd.colorscheme("daybreak")
+vim.cmd.colorscheme("retro")
